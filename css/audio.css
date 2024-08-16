@@ -136,6 +136,11 @@ h6 {
   padding: 0.5rem;
 }
 
+.tab-back {
+  background-color: black;
+  margin-right: 0.5rem;
+}
+
 .btn-secondary {
   color: whitesmoke;
   background-color: teal;
