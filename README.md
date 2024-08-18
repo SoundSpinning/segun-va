@@ -11,8 +11,8 @@ Small music web app for artists/bands to follow mixing/mastering featuring:
 * Artwork
 * Contact
 * Download link [ if applicable ]
-* Feedback form
+* Feedback form [ 'Hi' tab ]
 
-<a href="https://soundspinning.github.io/sound-spinning/"><img src="./assets/segun_va_logo.jpg" alt="Segun Va! Music Badge"></a>
+<a href="https://soundspinning.github.io/sound-spinning/"><img src="./assets/media/music_badge.jpg" alt="Segun Va! Music Badge"></a>
 
 ---
