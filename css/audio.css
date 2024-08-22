@@ -134,6 +134,7 @@ h6 {
 
 .nav-link.btn-link {
   padding: 0.5rem;
+  border-color: gray;
 }
 
 .tab-back {
